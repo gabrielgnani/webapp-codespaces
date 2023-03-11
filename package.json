@@ -4,7 +4,7 @@
   "description": "Run the app that you had created last week (**homework 3)** on the Heroku platform.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node webapp.js"
   },
   "author": "Gnanesh Methari",
   "license": "ISC",
